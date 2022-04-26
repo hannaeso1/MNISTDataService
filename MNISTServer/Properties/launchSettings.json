@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MNISTServer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
